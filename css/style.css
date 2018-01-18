@@ -1,14 +1,11 @@
-/* This is a comment! */
-
 /* CSS Syntax:
-
-selector {
-  property: value;
-  property: value;
-}
-
+  selector {
+    property: value;
+    property: value;
+  }
 */
 
 p {
-  font-size: 16px;
+  font-size: 1em;
+  line-height: 1.5em;
 }
